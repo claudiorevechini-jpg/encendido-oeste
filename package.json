@@ -1,0 +1,14 @@
+{
+  "name": "encendido-oeste-tienda",
+  "version": "1.0.0",
+  "description": "Tienda Encendido Oeste - MercadoLibre",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "node-fetch": "^2.7.0"
+  }
+}
